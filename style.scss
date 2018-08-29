@@ -1,0 +1,19 @@
+.test {
+
+    font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  
+    font-weight: bold;
+  
+    line-height: 20pt;
+
+    color: primary;
+  
+  }
+
+  @import "bootstrap/variables";
+
+  $theme-colors: (
+        primary: #333333
+);
+
+@import "bootstrap";

@@ -1,0 +1,32 @@
+.test {
+
+    font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  
+    font-weight: bold;
+  
+    line-height: 20pt;
+
+    color: primary;
+  
+  }
+
+  .btn-primary span{
+
+    color: rgb(0, 127, 177);
+  }
+
+  body{
+    background-color: rgb(92, 92, 92); 
+    background-color: white; 
+  }
+
+  .card-body{
+
+    background-color: rgb(8, 10, 19);
+    color: aliceblue; 
+  } 
+
+  .card{
+
+    border-color: rgb(15, 16, 27);
+  }
